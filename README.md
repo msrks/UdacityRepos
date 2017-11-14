@@ -4,23 +4,43 @@
 
 #### term1
 
-- [Rover-Project](https://github.com/msrks/RoboND-Rover-Project)
-- [Kinematics-Project](https://github.com/msrks/RoboND-Kinematics-Project)
-- [Perception-Exercises](https://github.com/msrks/RoboND-Perception-Exercises)
+1. [Rover-Project](https://github.com/msrks/RoboND-Rover-Project)
+2. [Kinematics-Project](https://github.com/msrks/RoboND-Kinematics-Project)
+3. [Perception-Exercises](https://github.com/msrks/RoboND-Perception-Exercises)
+4. [DeepLearning-Project](https://github.com/msrks/RoboND-DeepLearning-Project)
+
+#### ref
+
+- [simple_arm](https://github.com/msrks/simple_arm)
 - [Perception-Project](https://github.com/msrks/RoboND-Perception-Project)
 - [Controls-Lab](https://github.com/msrks/RoboND-Controls-Lab)
 - [Segmentation-Lab](https://github.com/msrks/RoboND-Segmentation-Lab)
-- [DeepLearning-Project](https://github.com/msrks/RoboND-DeepLearning-Project)
 
 ## Self-Driving Car Nanodegree
 
 #### term1
 
+1. [LaneLines](https://github.com/msrks/CarND-LaneLines-P1)
+2. [Traffic-Sign-Classifier](https://github.com/msrks/CarND-Traffic-Sign-Classifier-Project)
+3. [Behavioral-Cloning](https://github.com/msrks/CarND-Behavioral-Cloning-P3)
+4. [Advanced-Lane-Lines](https://github.com/msrks/CarND-Advanced-Lane-Lines)
+5. [Vehicle-Detection](https://github.com/msrks/CarND-Vehicle-Detection)
+
 #### term2
 
-- [Object-Detection-Lab](https://github.com/msrks/CarND-Object-Detection-Lab)
+1. [Extended-Kalman-Filter](https://github.com/msrks/CarND-Extended-Kalman-Filter-Project)
+2. [Unscented-Kalman-Filter](https://github.com/msrks/CarND-Unscented-Kalman-Filter-Project)
+3. [Kidnapped-Vehicle](https://github.com/msrks/CarND-Kidnapped-Vehicle-Project)
+4. [PID-Control](https://github.com/msrks/CarND-PID-Control-Project)
+5. [MPC](https://github.com/msrks/CarND-MPC-Project)
 
 #### term3
 
-- [Path-Planning-Project](https://github.com/msrks/CarND-Path-Planning-Project)
+1. [Path-Planning-Project](https://github.com/msrks/CarND-Path-Planning-Project)
+
+#### ref.
+
+- [Camera-Calibration](https://github.com/msrks/CarND-Camera-Calibration)
+- [Mercedes-SF-Utilities](https://github.com/msrks/CarND-Mercedes-SF-Utilities)
+- [MPC-Quizzes](https://github.com/msrks/CarND-MPC-Quizzes)
 - [Object-Detection-Lab](https://github.com/msrks/CarND-Object-Detection-Lab)
