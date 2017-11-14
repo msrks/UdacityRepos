@@ -4,15 +4,15 @@
 
 #### term1
 
-1. [Rover-Project](https://github.com/msrks/RoboND-Rover-Project)
-2. [Kinematics-Project](https://github.com/msrks/RoboND-Kinematics-Project)
-3. [Perception-Exercises](https://github.com/msrks/RoboND-Perception-Exercises)
-4. [DeepLearning-Project](https://github.com/msrks/RoboND-DeepLearning-Project)
+1. [Rover](https://github.com/msrks/RoboND-Rover-Project)
+2. [Kinematics](https://github.com/msrks/RoboND-Kinematics-Project)
+3. [Perception](https://github.com/msrks/RoboND-Perception-Project)
+4. [DeepLearning](https://github.com/msrks/RoboND-DeepLearning-Project)
 
 #### ref
 
 - [simple_arm](https://github.com/msrks/simple_arm)
-- [Perception-Project](https://github.com/msrks/RoboND-Perception-Project)
+- [Perception-Exercises](https://github.com/msrks/RoboND-Perception-Exercises)
 - [Controls-Lab](https://github.com/msrks/RoboND-Controls-Lab)
 - [Segmentation-Lab](https://github.com/msrks/RoboND-Segmentation-Lab)
 
@@ -36,7 +36,7 @@
 
 #### term3
 
-1. [Path-Planning-Project](https://github.com/msrks/CarND-Path-Planning-Project)
+1. [Path-Planning](https://github.com/msrks/CarND-Path-Planning-Project)
 
 #### ref.
 
