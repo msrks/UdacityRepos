@@ -42,7 +42,8 @@
     - [simple_arm_c](https://github.com/msrks/simple_arm_c)
 3. [Kinematics](https://github.com/msrks/RoboND-Kinematics-Project)
 4. [Perception](https://github.com/msrks/RoboND-Perception-Project)
-5. [DeepLearning](https://github.com/msrks/RoboND-DeepLearning-Project)
+5. Controls
+6. [DeepLearning](https://github.com/msrks/RoboND-DeepLearning-Project)
 
 #### ref
 
