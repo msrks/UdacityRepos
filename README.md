@@ -36,6 +36,7 @@
 1. [Rover](https://github.com/msrks/RoboND-Rover-Project)
     - [Python-StarterKit](https://github.com/msrks/RoboND-Python-StarterKit)
     - [Rover-Unity-Simulator](https://github.com/msrks/RoboND-Rover-Unity-Simulator)
+    - [Project Walkthrough Video](https://www.youtube.com/watch?v=oJA6QHDPdQw)
 2. [Kinematics](https://github.com/msrks/RoboND-Kinematics-Project)
 3. [Perception](https://github.com/msrks/RoboND-Perception-Project)
 4. [DeepLearning](https://github.com/msrks/RoboND-DeepLearning-Project)
