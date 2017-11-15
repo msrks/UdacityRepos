@@ -37,14 +37,15 @@
     - [Python-StarterKit](https://github.com/msrks/RoboND-Python-StarterKit)
     - [Rover-Unity-Simulator](https://github.com/msrks/RoboND-Rover-Unity-Simulator)
     - [Project Walkthrough Video](https://www.youtube.com/watch?v=oJA6QHDPdQw)
-2. [Kinematics](https://github.com/msrks/RoboND-Kinematics-Project)
-3. [Perception](https://github.com/msrks/RoboND-Perception-Project)
-4. [DeepLearning](https://github.com/msrks/RoboND-DeepLearning-Project)
+2. ROS
+    - [simple_arm](https://github.com/msrks/simple_arm)
+    - [simple_arm_c](https://github.com/msrks/simple_arm_c)
+3. [Kinematics](https://github.com/msrks/RoboND-Kinematics-Project)
+4. [Perception](https://github.com/msrks/RoboND-Perception-Project)
+5. [DeepLearning](https://github.com/msrks/RoboND-DeepLearning-Project)
 
 #### ref
 
-- [simple_arm](https://github.com/msrks/simple_arm)
-- [simple_arm_c](https://github.com/msrks/simple_arm_c)
 - [Perception-Exercises](https://github.com/msrks/RoboND-Perception-Exercises)
 - [Controls-Lab](https://github.com/msrks/RoboND-Controls-Lab)
 - [Segmentation-Lab](https://github.com/msrks/RoboND-Segmentation-Lab)
