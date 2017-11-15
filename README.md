@@ -45,6 +45,7 @@
 - [Perception-Exercises](https://github.com/msrks/RoboND-Perception-Exercises)
 - [Controls-Lab](https://github.com/msrks/RoboND-Controls-Lab)
 - [Segmentation-Lab](https://github.com/msrks/RoboND-Segmentation-Lab)
+- [Control_Rover](https://github.com/msrks/RoboND-Control_Rover)
 
 ## 99. Frontend Nanodegree
 
