@@ -37,21 +37,18 @@
     - [Python-StarterKit](https://github.com/msrks/RoboND-Python-StarterKit)
     - [Rover-Unity-Simulator](https://github.com/msrks/RoboND-Rover-Unity-Simulator)
     - [Project Walkthrough Video](https://www.youtube.com/watch?v=oJA6QHDPdQw)
+    - [Control_Rover](https://github.com/msrks/RoboND-Control_Rover)
 2. ROS
     - [simple_arm](https://github.com/msrks/simple_arm)
     - [simple_arm_c](https://github.com/msrks/simple_arm_c)
 3. [Kinematics](https://github.com/msrks/RoboND-Kinematics-Project) [[reviews](https://review.udacity.com/#!/reviews/826827)]
     - [Project Walkthrough Video](https://www.youtube.com/watch?v=Gt8DRm-REt4)
 4. [Perception](https://github.com/msrks/RoboND-Perception-Project)
+    - [Perception-Exercises](https://github.com/msrks/RoboND-Perception-Exercises)
 5. Controls
+    - [Controls-Lab](https://github.com/msrks/RoboND-Controls-Lab)
 6. [DeepLearning](https://github.com/msrks/RoboND-DeepLearning-Project)
-
-#### ref
-
-- [Perception-Exercises](https://github.com/msrks/RoboND-Perception-Exercises)
-- [Controls-Lab](https://github.com/msrks/RoboND-Controls-Lab)
-- [Segmentation-Lab](https://github.com/msrks/RoboND-Segmentation-Lab)
-- [Control_Rover](https://github.com/msrks/RoboND-Control_Rover)
+    - [Segmentation-Lab](https://github.com/msrks/RoboND-Segmentation-Lab)
 
 ## 99. Frontend Nanodegree
 
