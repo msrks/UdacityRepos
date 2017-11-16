@@ -40,7 +40,8 @@
 2. ROS
     - [simple_arm](https://github.com/msrks/simple_arm)
     - [simple_arm_c](https://github.com/msrks/simple_arm_c)
-3. [Kinematics](https://github.com/msrks/RoboND-Kinematics-Project)
+3. [Kinematics](https://github.com/msrks/RoboND-Kinematics-Project) [[reviews](https://review.udacity.com/#!/reviews/826827)]
+    - [Project Walkthrough Video](https://www.youtube.com/watch?v=Gt8DRm-REt4)
 4. [Perception](https://github.com/msrks/RoboND-Perception-Project)
 5. Controls
 6. [DeepLearning](https://github.com/msrks/RoboND-DeepLearning-Project)
