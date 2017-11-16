@@ -44,6 +44,7 @@
 3. [Kinematics](https://github.com/msrks/RoboND-Kinematics-Project) [[reviews](https://review.udacity.com/#!/reviews/826827)]
     - [Project Walkthrough Video](https://www.youtube.com/watch?v=Gt8DRm-REt4)
 4. [Perception](https://github.com/msrks/RoboND-Perception-Project) [[reviews](https://review.udacity.com/#!/reviews/830822)]
+    - [Camera-Calibration](https://github.com/msrks/RoboND-Camera-Calibration)
     - [Perception-Exercises](https://github.com/msrks/RoboND-Perception-Exercises)
 5. Controls
     - [Controls-Lab](https://github.com/msrks/RoboND-Controls-Lab)
