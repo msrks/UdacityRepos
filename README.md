@@ -43,11 +43,11 @@
     - [simple_arm_c](https://github.com/msrks/simple_arm_c)
 3. [Kinematics](https://github.com/msrks/RoboND-Kinematics-Project) [[reviews](https://review.udacity.com/#!/reviews/826827)]
     - [Project Walkthrough Video](https://www.youtube.com/watch?v=Gt8DRm-REt4)
-4. [Perception](https://github.com/msrks/RoboND-Perception-Project)
+4. [Perception](https://github.com/msrks/RoboND-Perception-Project) [[reviews](https://review.udacity.com/#!/reviews/830822)]
     - [Perception-Exercises](https://github.com/msrks/RoboND-Perception-Exercises)
 5. Controls
     - [Controls-Lab](https://github.com/msrks/RoboND-Controls-Lab)
-6. [DeepLearning](https://github.com/msrks/RoboND-DeepLearning-Project)
+6. [DeepLearning](https://github.com/msrks/RoboND-DeepLearning-Project) [[reviews](https://review.udacity.com/#!/reviews/852249)]
     - [Segmentation-Lab](https://github.com/msrks/RoboND-Segmentation-Lab)
 
 ## 99. Frontend Nanodegree
