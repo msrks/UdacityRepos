@@ -21,6 +21,7 @@
 #### term3
 
 1. [Path-Planning](https://github.com/msrks/CarND-Path-Planning-Project)
+    - [Project Walkthrough Video](https://www.youtube.com/watch?v=7sI3VHFPP0w)
 
 #### ref.
 
