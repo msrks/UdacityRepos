@@ -17,17 +17,19 @@
 3. [Kidnapped-Vehicle](https://github.com/msrks/CarND-Kidnapped-Vehicle-Project)
 4. [PID-Control](https://github.com/msrks/CarND-PID-Control-Project)
 5. [MPC](https://github.com/msrks/CarND-MPC-Project)
+    - [MPC-Quizzes](https://github.com/msrks/CarND-MPC-Quizzes)
 
 #### term3
 
 1. [Path-Planning](https://github.com/msrks/CarND-Path-Planning-Project)
     - [Project Walkthrough Video](https://www.youtube.com/watch?v=7sI3VHFPP0w)
+    - [Practices](https://github.com/msrks/Path-Planning-Practice)
+2. [Semantic-Segmentation](https://github.com/msrks/CarND-Semantic-Segmentation)
 
 #### ref.
 
 - [Camera-Calibration](https://github.com/msrks/CarND-Camera-Calibration)
 - [Mercedes-SF-Utilities](https://github.com/msrks/CarND-Mercedes-SF-Utilities)
-- [MPC-Quizzes](https://github.com/msrks/CarND-MPC-Quizzes)
 - [Object-Detection-Lab](https://github.com/msrks/CarND-Object-Detection-Lab)
 
 ## 2. Robotics Nanodegree
