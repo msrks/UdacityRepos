@@ -25,6 +25,7 @@
     - [Project Walkthrough Video](https://www.youtube.com/watch?v=7sI3VHFPP0w)
     - [Practices](https://github.com/msrks/Path-Planning-Practice)
 2. [Semantic-Segmentation](https://github.com/msrks/CarND-Semantic-Segmentation)
+3. [Capstone](https://github.com/msrks/CarND-Capstone)
 
 #### ref.
 
