@@ -49,6 +49,7 @@ https://github.com/msrks/self-driving-car
     - [Project Walkthrough Video](https://www.youtube.com/watch?v=7sI3VHFPP0w)
     - [Practices](https://github.com/msrks/Path-Planning-Practice)
 2. [Semantic-Segmentation](https://github.com/msrks/CarND-Semantic-Segmentation)
+    - [Project Walkthrough Video](https://www.youtube.com/watch?v=5g9sZIwGubk)
 3. [Functional-Safety](https://github.com/msrks/CarND-Functional-Safety-Project)
     - [Project Walkthrough Video](https://www.youtube.com/watch?v=SsXNj_pfnao)
 4. [Capstone](https://github.com/msrks/CarND-Capstone)
